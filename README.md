@@ -1,8 +1,16 @@
+### Hi there 👋, my name is Vetara Kaurimuje
+#### Web Developer & Cyber Security enthusiast
+I am a student currently pursuing a Computer Science degree in Cyber Security. Furthermore, I am a web developer with experience dealing with PHP frameworks like Laravel and Codeignitor. 
+
+My interests include cloud networking and security, process automation, data analytics and database administration.
+
 - 👋 Hi, I’m @vetara
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in cloud networking, process automation, data analytics.
+- 🌱 I’m currently working on Salesforce Admin/Developer and Google Cloud Engineering Certifications.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me at vetarakaurimuje@gmail.com
+
+Skills: Java / Python / PHP / JS / HTML / CSS
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vetara&count_private=true)](https://github.com/vetara/github-readme-stats)
 
