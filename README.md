@@ -2,12 +2,8 @@
 #### Web Developer & Cyber Security enthusiast
 I am a student currently pursuing a Computer Science degree in Cyber Security. Furthermore, I am a web developer with experience dealing with PHP frameworks like Laravel and Codeignitor. 
 
-My interests include cloud networking and security, process automation, data analytics and database administration.
-
-- 👋 Hi, I’m @vetara
-- 👀 I’m interested in cloud networking, process automation, data analytics.
+- 👀 My interests include cloud networking, process automation and data analytics.
 - 🌱 I’m currently working on Salesforce Admin/Developer and Google Cloud Engineering Certifications.
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at vetarakaurimuje@gmail.com
 
 Skills: Java / Python / PHP / JS / HTML / CSS
